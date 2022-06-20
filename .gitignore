@@ -1,0 +1,3 @@
+# Project exclude paths
+/remotePCClient/target/
+/remoteServer/target/
